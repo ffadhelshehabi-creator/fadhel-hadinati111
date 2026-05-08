@@ -1,0 +1,6 @@
+{
+  "name": "Hadhati Food (حاضنتي فود)",
+  "description": "Premium specialty supermarket in Muharraq, Bahrain, famous for artisan cookies and delicious apricot paste.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
